@@ -116,7 +116,7 @@ Before you begin, ensure you have:
 Once the Chroma DB has been successfully built by the notebook:
 
 ```bash
-streamlit run main_app.py
+streamlit run main.py
 ```
 
 This command will open the Streamlit application in your web browser. Subsequent runs will be much faster as the Chroma DB is loaded directly from disk.
