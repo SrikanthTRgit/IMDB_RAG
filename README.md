@@ -1,6 +1,4 @@
-Got it. Here's the updated and standardized `README.md` incorporating the fact that you use an `imdb_data_preprocess.ipynb` notebook to build your persistent Chroma DB.
 
------
 
 # 🎬 Conversational Movie AI Assistant
 
