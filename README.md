@@ -153,7 +153,8 @@ The AI processes your request and provides relevant movie suggestions with a con
 
 **3. Contextual Follow-up:**
 The AI remembers previous turns, allowing for natural, continuous dialogue.
-![image](https://github.com/user-attachments/assets/d016e269-7dae-435a-ba2e-c97403151a6c)
+![image](https://github.com/user-attachments/assets/4e65b658-171d-4c43-8adf-746b27c06b67)
+
 
 
 ---
