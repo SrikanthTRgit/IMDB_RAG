@@ -137,7 +137,26 @@ Simply type your questions or requests about movies into the chat input box at t
   * "What about more like that last one?" (Example of a follow-up question)
 
 -----
+---
 
+**Visual Walkthrough:**
+
+**1. The Chat Interface:**
+Start your conversation by typing your query into the chat box.
+![image](https://github.com/user-attachments/assets/3248d377-695b-40a9-aea7-f28e6eb916a5)
+
+
+**2. Query and Results:**
+The AI processes your request and provides relevant movie suggestions with a concise summary.
+![image](https://github.com/user-attachments/assets/4d5ddb4b-f76a-4c2f-93be-36841ae4e564)
+
+
+**3. Contextual Follow-up:**
+The AI remembers previous turns, allowing for natural, continuous dialogue.
+![image](https://github.com/user-attachments/assets/d016e269-7dae-435a-ba2e-c97403151a6c)
+
+
+---
 ## 📁 Project Structure
 
 The project is organized into the following directories and files:
