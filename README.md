@@ -27,7 +27,7 @@ Follow these steps to set up and run the Movie AI Assistant on your local machin
 
 Before you begin, ensure you have:
 
-  * **Python 3.8+** installed.
+  * **Python 3.11+** installed.
   * Access to an **Azure OpenAI Service** deployment with models like `gpt-4o` (or your chosen models) for both chat and embeddings.
 
 ### 📦 Installation
